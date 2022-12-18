@@ -2,7 +2,7 @@ FROM LEGEND-AI/LEGENDBOT:slim-buster
 
 #clonning repo 
 
-RUN git clone https://github.com/LEGEND-AI/LEGENDUSERBOT.git /root/Legendbot
+RUN git clone https://github.com/ITS-LEGENDBOT/LEGENDBOT.git /root/Legendbot
 
 #working directory 
 WORKDIR /root/Legendbot
