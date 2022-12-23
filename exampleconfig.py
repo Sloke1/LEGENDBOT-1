@@ -19,6 +19,7 @@ class Development(Config):
     SUDO_HANDLER = "."
     # External plugins repo
     EXTRA_REPO = "https://github.com/ITS-LEGENDBOT/PLUGINS"
+    EXTRA_REPOBRANCH = "main"
     UPSTREAM_REPO = "pro"
     # Your City's TimeZone
     TZ = "Asia/Kolkata"
